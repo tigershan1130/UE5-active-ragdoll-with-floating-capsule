@@ -21,6 +21,6 @@ Physical Reaction 2:
 
 Floating capsule going upstairs:
 
-![alt text](https://github.com/tigershan1130/UE5-active-ragdoll-with-floating-capsule/tree/main/ScreenShots/Physics2.gif)
+![alt text](https://github.com/tigershan1130/UE5-active-ragdoll-with-floating-capsule/blob/main/ScreenShots/Physics2.gif)
 
 
