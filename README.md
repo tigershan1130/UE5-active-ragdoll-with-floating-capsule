@@ -12,12 +12,15 @@ Floating Capsule Information: https://www.youtube.com/watch?v=qdskE8PJy6Q&t=171s
 Example: reaction effect fully driven by physics where hitting certain part of the body would drive phyiscal force moving root/hips.
 
 Physical Reaction 1:
+
 ![alt text](https://github.com/tigershan1130/UE5-active-ragdoll-with-floating-capsule/blob/main/ScreenShots/Phyysics4.gif)
 
 Physical Reaction 2:
+
 ![alt text](https://github.com/tigershan1130/UE5-active-ragdoll-with-floating-capsule/blob/main/ScreenShots/Physics1.gif)
 
 Floating capsule going upstairs:
-![alt text](https://github.com/tigershan1130/UE5-active-ragdoll-with-floating-capsule/tree/main/ScreenShots)
+
+![alt text](https://github.com/tigershan1130/UE5-active-ragdoll-with-floating-capsule/tree/main/ScreenShots/Physics2.gif)
 
 
